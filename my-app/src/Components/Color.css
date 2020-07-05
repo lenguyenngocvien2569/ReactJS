@@ -1,0 +1,11 @@
+    .cha {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .box1 {
+        width: 200px;
+        height: 200px;
+        background-color: black;
+    }
